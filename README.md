@@ -2,6 +2,7 @@
 I tried to learn Scheme (lisp dialect) around 2014 and I tried SICP but I found it too difficult.  
 I was looking around and this [blog](https://jaortega.wordpress.com/2007/01/31/a-scheme-bookshelf/) recommended an easier alternative called Concrete Abstraction.  
 More information about the textbook can be found [here](https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions.html)  
+A webarchive of the textbook homepage can be found [here](https://web.archive.org/web/20230928012908/https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/concrete-abstractions.html)  
 I also added the pdf into the repo.  
 
 This repo is my attempts at some of the exercises in the book.  
